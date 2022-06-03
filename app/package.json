@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jissp/beautytoc_auto_vote.git"
+  },
+  "author": "jissps@naver.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jissp/beautytoc_auto_vote/issues"
+  },
+  "homepage": "https://github.com/jissp/beautytoc_auto_vote#readme",
+  "dependencies": {
+    "puppeteer": "^14.2.1"
+  }
+}
